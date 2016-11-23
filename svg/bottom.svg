@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="591.6mm"
+   height="377.586mm"
+   viewBox="0 0 591.6 377.586"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bottom.svg">
+  <metadata
+     id="metadata49">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs47" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview45"
+     showgrid="false"
+     inkscape:zoom="0.33965894"
+     inkscape:cx="1129.403"
+     inkscape:cy="480.8156"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 574.1382,14.138203 -100,0 0,-10.0000001 -50,0 0,10.0000001 -260,0 0,-10.0000001 -50,0 0,10.0000001 -99.999999,0 0,45.985998 -10.0000004,0 0,49.999999 10.0000004,0 0,100 -10.0000004,0 0,50 10.0000004,0 0,100 99.999999,0 0,10 50,0 0,-10 260,0 0,10 50,0 0,-10 100,0 0,-100 10,0 0,-50 -10,0 0,-100 10,0 0,-49.999999 -10,0 0,-45.985998 z"
+     id="Part__Feature_f0037" />
+</svg>
